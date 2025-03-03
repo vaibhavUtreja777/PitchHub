@@ -2,11 +2,7 @@
 # Software-Project
 =======
 <div align="center">
-  <br />
-    <a href="https://youtu.be/Zq5fmkH0T78?feature=shared" target="_blank">
-      
-    </a>
-  <br />
+ 
 
   <div>
     <img src="https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logoColor=white&logo=react&color=3178C6" alt="typescript" />
@@ -557,7 +553,4 @@ export const PLAYLIST_BY_SLUG_QUERY =
 </details>
 
 
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
->>>>>>> faed469 (Initial commit)
+
